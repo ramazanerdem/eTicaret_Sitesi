@@ -1,6 +1,10 @@
 import { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { getCategoryProduct, getProducts } from '../../../redux/productSlice'
+import {
+  getCategoryProduct,
+  getProducts,
+  searchProducts,
+} from '../../../redux/productSlice'
 import Loading from '../../Loading'
 import Product from './Product'
 import ReactPaginate from 'react-paginate'
@@ -33,6 +37,7 @@ const Products = ({ category, sort }) => {
   useEffect(() => {
     category ? dispatch(getCategoryProduct(category)) : dispatch(getProducts())
   }, [dispatch, category])
+
   return (
     <div className="basis-4/5 flex flex-col items-center">
       {productsStatus == 'LOADING' ? (

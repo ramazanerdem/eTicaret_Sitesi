@@ -21,6 +21,7 @@ const NavbarRight = () => {
   useEffect(() => {
     dispatch(getCartTotal())
   }, [dispatch])
+
   return (
     <div className="flex items-center gap-5">
       <div className="flex items-center justify-between border-2 border-black px-3 py-1 rounded-lg">
