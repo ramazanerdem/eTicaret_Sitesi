@@ -25,6 +25,6 @@ Proje linkine <a href="https://amazort.netlify.app/">buradan</a> erişebilirsini
 
 <p align="center">
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-<img width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png">
+<img width="50px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.svg">
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
 </p>
