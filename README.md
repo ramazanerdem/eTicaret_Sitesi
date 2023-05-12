@@ -1,7 +1,7 @@
 <h1 align="center">Açıklama</h1>
 
 <h2 align="center">
-Proje de, <a href="https://amazort.netlify.app/">fakestoreapi.com</a> üzerinden alınan Api kullanılmıştır.
+Proje de, <a href="https://fakestoreapi.com/">fakestoreapi.com</a> üzerinden alınan Api kullanılmıştır.
 <br><br>
 Proje, React.js - Tailwind - Redux Toolkit kullanılarak geliştirilmiştir.
 <br>
